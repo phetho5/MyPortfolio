@@ -1,2 +1,18 @@
 # My Portfolio
-Check out my portfolio: [View Live Portfolio](https://your-username.github.io/your-repo-name/)
+
+Welcome to my portfolio! Check out my live site here: [View Live Portfolio](https://phetho5.github.io/MyPortfolio/)
+
+---
+
+
+
+
+
+## Portfolio Features
+- About Me section
+- Skills & Tools
+- Projects / Work Samples
+- Contact Information
+
+---
+
